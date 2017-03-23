@@ -24,3 +24,18 @@ Mzitu = mzitu('H:/mzitu')
 Mzitu.do_spider('http://www.mzitu.com/all')
 ```
 
+
+
+### douban
+
+- 基于py2
+
+
+- 豆瓣书，爬取分类，评分，评分人数
+- Book.py  主执行
+- DupBook.py 分类下书籍有重复，手动去重
+
+写的比较乱，比较简单。支持断点续爬，数据入mysql。
+
+生成日志文件 myapp.log
+
