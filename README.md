@@ -4,6 +4,7 @@
 ### meizu  
 
 - 基于py2 
+- 爬取美女图片
 
 
 - www.haoip.cc   proxy ip 
