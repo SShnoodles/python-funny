@@ -1,2 +1,26 @@
 # python-funny
-some funny web crawler
+有趣有料，边学边玩
+
+### meizu  
+
+- 基于py2 
+
+
+- www.haoip.cc   proxy ip 
+- www.meizu.com pictures of beautiful girls
+
+引入模块:
+
+- requests urllib的升级版本
+- re 正则表达式模块
+- random 随机
+- beautifulsoup4 你懂的
+- lxml 一个HTML解析包 
+
+```pyt
+# download dir 
+Mzitu = mzitu('H:/mzitu')
+# home url
+Mzitu.do_spider('http://www.mzitu.com/all')
+```
+
