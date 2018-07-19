@@ -1,14 +1,14 @@
 # python-funny
 有趣有料，边学边玩
 
-### meizu  
+### mzitu  
 
 - 基于py2 
 - 爬取美女图片
 
 
 - www.haoip.cc   proxy ip 
-- www.meizu.com pictures of beautiful girls
+- mzitu pictures of beautiful girls
 
 引入模块:
 
